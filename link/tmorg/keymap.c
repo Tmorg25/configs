@@ -26,7 +26,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   KC_TRNS, KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,                    KC_PGUP,  KC_HOME,  KC_TRNS,  KC_END,   KC_INS,  KC_DEL,
   KC_TRNS, KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,                    KC_LEFT,  KC_DOWN,  KC_UP,    KC_RIGHT, KC_TRNS, KC_TRNS,
   KC_TRNS, KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS, KC_TRNS,  KC_TRNS, KC_CAPS,  KC_PGUP,  KC_MPRV,  KC_MNXT,  KC_PSCR, KC_TRNS,
-           KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,                    KC_ENT,   KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS
+           KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_UP,                      KC_ENT,   KC_TRNS,  KC_TRNS,  KC_TRNS,  KC_TRNS
 ),
 
 [3] = LAYOUT(
